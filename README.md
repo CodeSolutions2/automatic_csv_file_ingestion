@@ -6,4 +6,4 @@ The objective of this work was to create an automated bash script that sorts a f
 
 In summary, a function that will organize a folder of csv files into three folders: exact_match_header, similar_match_header, no_match_header. The exact_match_header files all have the same common header, so they can be uploaded directly to a cloud server.
 
-[Available for purchase on Upwork] (https://www.upwork.com/services/product/development-it-automatic-csv-file-ingestion-sorting-of-files-by-header-upload-to-cloud-1740355723544662016)
+[Available for purchase on Upwork](https://www.upwork.com/services/product/development-it-automatic-csv-file-ingestion-sorting-of-files-by-header-upload-to-cloud-1740355723544662016)
